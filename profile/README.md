@@ -47,9 +47,7 @@
 
 - [@elquianel](https://www.github.com/elquianel)
 - [@kaayra01](https://www.github.com/kaayra01)
-- [@HermesE30](https://www.github.com/HermesE30)
 - [@pedrou103](https://www.github.com/pedrou103)
-- [@armandosoaress](https://www.github.com/armandosoaress)
 
 
 ## Nossa organização
